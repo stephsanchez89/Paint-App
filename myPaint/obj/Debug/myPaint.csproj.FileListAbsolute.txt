@@ -1,0 +1,9 @@
+C:\Users\Julian\source\repos\myPaint\myPaint\obj\Debug\myPaint.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\myPaint\myPaint\obj\Debug\myPaint.Form1.resources
+C:\Users\Julian\source\repos\myPaint\myPaint\obj\Debug\myPaint.Properties.Resources.resources
+C:\Users\Julian\source\repos\myPaint\myPaint\obj\Debug\myPaint.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\myPaint\myPaint\bin\Debug\myPaint.exe.config
+C:\Users\Julian\source\repos\myPaint\myPaint\bin\Debug\myPaint.exe
+C:\Users\Julian\source\repos\myPaint\myPaint\bin\Debug\myPaint.pdb
+C:\Users\Julian\source\repos\myPaint\myPaint\obj\Debug\myPaint.exe
+C:\Users\Julian\source\repos\myPaint\myPaint\obj\Debug\myPaint.pdb
